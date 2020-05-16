@@ -13,7 +13,7 @@ If not profile is activated, or any other profile apart from `sg` is activated `
 
 This repo is for demo only, no PR, Issues or related will be handled. If you have ideas for futher contributions, please feel free to email. 
 
-The active will be listed in my profile page.
+The active email will be listed in my profile page.
 
-Regards.
+Have Fun Coding!
 
