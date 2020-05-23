@@ -8,12 +8,5 @@ The tests check if the profile `sg` is activated, then `QuickSort` Sorting algor
 
 If not profile is activated, or any other profile apart from `sg` is activated `BubbleSort` algorithm is used.
 
-
-### Archiving Note
-
-This repo is for demo only, no PR, Issues or related will be handled. If you have ideas for futher contributions, please feel free to email. 
-
-The active email will be listed in my profile page.
-
 Have Fun Coding!
 
